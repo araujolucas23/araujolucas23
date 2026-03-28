@@ -16,10 +16,3 @@
 
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=lucasaraujodev23&show_icons=true&theme=tokyonight)  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasaraujodev23&layout=compact&theme=tokyonight)
-
-
-## Alguns projetos
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaraujodev23&repo=DS&bg_color=000&border_color=4169E1&show_icons=true&icon_color=fff&title_color=4169E1&text_color=FFF)](https://github.com/lucasaraujodev23/DS)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaraujodev23&repo=aula-ds-bd&bg_color=000&border_color=4169E1&show_icons=true&icon_color=fff&title_color=4169E1&text_color=FFF)](https://github.com/lucasaraujodev23/aula-ds-bd)
