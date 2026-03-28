@@ -23,7 +23,7 @@
 
 <br>
 
-## 💻 Tecnologias e linguagens que estudo
+## 💻 Tecnologias e linguagens
 
 <br><br>
 
