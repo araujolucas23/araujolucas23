@@ -2,16 +2,13 @@
   
   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Lucas+Araujo;Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
 
-<br>
 
   ### Sou estudante de Ciência da Computação na FECAP, e estou em busca de desafios que possam aprimorar minhas soft skills e hard skills na área de Full Stack Development!
 
-<br>
 </div>
 
 ## 📬 Contato e Redes Sociais
 
-<br><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-araujo-pereira23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=2" alt="LinkedIn"></a>
@@ -21,11 +18,9 @@
   <a href="mailto:lucas.araujo.pereira23@gmail.com"><img src="https://img.shields.io/badge/-email-e00c04?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-<br>
 
 ## 💻 Tecnologias e linguagens
 
-<br><br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
@@ -47,11 +42,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
-<br>
 
 ## 📊 GitHub Stats
 
-<br>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=lucasaraujodev23&show_icons=true&theme=tokyonight" alt="GitHub Stats">
