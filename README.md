@@ -2,14 +2,16 @@
   
   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Lucas+Araujo;Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
 
-  <p>Sou estudante de Ciência da Computação na FECAP, e estou em busca de desafios que possam aprimorar minhas soft skills e hard skills na área de TI!</p>
+<br>
+
+  ### Sou estudante de Ciência da Computação na FECAP, e estou em busca de desafios que possam aprimorar minhas soft skills e hard skills na área de Full Stack Development!
 
 <br>
 </div>
 
 ## 📬 Contato e Redes Sociais
 
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-araujo-pereira23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=2" alt="LinkedIn"></a>
@@ -23,7 +25,7 @@
 
 ## 💻 Tecnologias e linguagens que estudo
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
